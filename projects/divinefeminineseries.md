@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/000027.jpg
 title: "Divine Feminine Series"
 date: 2022-05-05
 labels:
