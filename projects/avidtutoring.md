@@ -12,7 +12,7 @@ summary: "My experience becoming a tutor and mentor to middle and high school st
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/IMG_3362.png" class="img-thumbnail" >
+  <img width="400px" src="../img/IMG_3362.jpg" class="img-thumbnail" >
 </div>
 
 A
