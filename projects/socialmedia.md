@@ -7,7 +7,7 @@ date: 2022-05-05
 labels:
   - Social Media
   - 
-summary: "The Divine Feminine Series is a photography series of black & white photos in 35mm format. It intends to showcase women in a natural setting and to appreciate the beauty of femininity."
+summary: "Using social media to connect, interact, and host activities as a way to create a memorable senior year even during a pandemic."
 ---
 
 <div class="text-center p-4">
