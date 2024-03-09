@@ -33,11 +33,18 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "area": "Computer Science (expected Spring 2026)",
       "studyType": "B.S.",
       "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
+        "ICS 111: Introduction to Computer Science I", 
+        "ICS 141: Disctrete Mathematics for Computer Science I",
+        "ICS 211: Introduction to Computer Science II",
+        "ICS 212: Program Structure (In Progress)",
+        "ICS 241: Discrete Mathematics for Computer Science II", 
+        "ICS 314: Software Engineering I (In Progress)"
+        "
       ]
     }
   ],
@@ -57,10 +64,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Mānoa Academic Merit Scholarship",
       "date": "2021-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.6 at a Hawai'i public school."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2021-2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students who maintain an semster grade point average of 3.5 or higher."
     }
   ],
   "references": [
