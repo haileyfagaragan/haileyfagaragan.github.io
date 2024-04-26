@@ -6,8 +6,7 @@ title: "Reflecting on Design Patterns"
 date: 2024-02-08
 published: true
 labels:
-  - ESLint
-  - Coding Standards
+  - Design Patterns
 ---
 
 <img width="300px" class="rounded float-start pe-4" style="float: left" src="../img/software-engineering-coding2.png"> 
