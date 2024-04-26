@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="300px" class="rounded float-start pe-4" style="float: left" src="../img/software-engineering-coding2.png"> 
+<img width="300px" class="rounded float-start pe-4" style="float: left" src="../img/design-patterns.jpg"> 
 
 
 ## My Thoughts on Design Patterns
