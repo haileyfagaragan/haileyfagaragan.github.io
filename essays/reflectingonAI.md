@@ -9,7 +9,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="300px" class="rounded float-start pe-4" style="float: left" src="../img/software-engineering-coding2.png"> 
+<img width="300px" class="rounded float-start pe-4" style="float: left" src="../img/ArtificialIntelligence.jpg"> 
 ### I. Introduction
 Artificial intelligence has become, for the most part, a valuable tool in my higher level education. It has entered
 
