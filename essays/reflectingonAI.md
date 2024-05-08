@@ -21,36 +21,44 @@ I have used AI in class this semester in the following areas:
   2. In-class Practice WODs
 
   3. In-class WODs
+     
 Because of the time limit on graded WODs, I hardly ever used ChatGPT to guide me through the steps. I learned from practice WODs that using AI to aid me in these types of workouts don't help as much. If I did use AI, it was only to clarify_______
 
-  4. Essays
+  5. Essays
+     
 In other classes, I have used AI to help me create outlines for my essays as well as brainstorming small things like finding titles that summarize the main idea whil also being creative. _______
 
-  5. Final project
+  7. Final project
+     
 I have used AI many times to guide me through certain aspects of my final project. As a group, we used ChatGPT to brainstorm creative team names and project titles that were memorable. I also personally used AI to help with the backend for some of my codes. If a page was crashing, and I couldn't figure out why, I would ask ChatGPT to list reasons why things are going wrong. 
 
-  6. Learning a concept / tutorial
+  9. Learning a concept / tutorial
+      
 A lot of the time, I would used AI to explain key concepts of the course in simpler terms. _______
 
-  7. Answering a question in class or in Discord
+  11. Answering a question in class or in Discord
 
-  8. Asking or answering a smart-question
+  12. Asking or answering a smart-question
+      
 I can't say that I used AI to ask or answer a smart-question. Our instructors were very clear on how to format our questions and how to answer other people's questions. 
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  14. Coding example e.g. “give an example of using Underscore .pluck”
+      
 I did find myself on many occasions to ask ChatGPT to give examples on how certain codes work. In the early days of using JavaScript, I would ask for examples on how to use certain Underscore functions. This was also the case when learning how to use HTML and CSS. 
 
-  10. Explaining code
+  16. Explaining code
+      
 I would often use AI to explain each line of code so I know what _____
 
-  11. Writing code
+  18. Writing code
+      
 I try not to use AI to write code for me as it often writes code that doesn't meet the criteria and expectations that are needed for class. However, I do use AI to throw some ideas on how to _____
 
-  12. Documenting code
+  20. Documenting code
 
-  13. Quality assurance 
+  21. Quality assurance 
 
-  14. Other uses in ICS 314 not listed above
+  22. Other uses in ICS 314 not listed above
 
 
 ### III. Impact on Learning and Understanding:
