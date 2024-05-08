@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflecting on My Use of AI in Software Engineering"
+title: "Cracking the Code with AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
