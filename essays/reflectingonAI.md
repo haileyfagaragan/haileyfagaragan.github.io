@@ -20,55 +20,55 @@ I have used AI in class this semester in the following areas:
 
 The video tutorials provided were very helpful, so there was no need for me to use AI in this situation. Watching the videos back several times were found to be more useful.
 
-  3. In-class Practice WODs
+  2. In-class Practice WODs
 
 I did not use AI for this scenario. If I couldn't finish the practice WODs, I would wait to see how my instructor completed it and asked questions if I needed to.
 
-  5. In-class WODs
+  3. In-class WODs
      
 Because of the time limit on graded WODs, I hardly ever used ChatGPT to guide me through the steps. I learned from practice WODs that using AI to aid me in these types of workouts don't help as much. If I did use AI during WODs, it was to check why my code wasn't running or to catch any errors.
 
-  5. Essays
+  4. Essays
      
 In other classes, I have used AI to help me create outlines for my essays as well as brainstorming small things like finding titles that summarize the main idea while also being creative.
 
-  7. Final project
+  5. Final project
      
 I have used AI many times to guide me through certain aspects of my final project. As a group, we used ChatGPT to brainstorm creative team names and project titles that were memorable. I also personally used AI to help with the backend for some of my codes. If a page was crashing, and I couldn't figure out why, I would ask ChatGPT to list reasons why things are going wrong. 
 
-  9. Learning a concept / tutorial
+  6. Learning a concept / tutorial
       
 A lot of the time, I would used AI to explain key concepts of the course in simpler terms. Using it this way, I am able to grasp key concepts without having to go through pages of readings or hours of video tutorials. 
 
-  11. Answering a question in class or in Discord
+  7. Answering a question in class or in Discord
 
 I have never used Artificial Intelligence to answer or ask a question in class or Discord.
 
-  13. Asking or answering a smart-question
+  8. Asking or answering a smart-question
       
 I can't say that I used AI to ask or answer a smart-question. Our instructors were very clear on how to format our questions and how to answer other people's questions. 
 
-  14. Coding example e.g. “give an example of using Underscore .pluck”
+  9. Coding example e.g. “give an example of using Underscore .pluck”
       
 I did find myself on many occasions to ask ChatGPT to give examples on how certain codes work. In the early days of using JavaScript, I would ask for examples on how to use certain Underscore functions. This was also the case when learning how to use HTML and CSS. 
 
-  16. Explaining code
+  10. Explaining code
       
 I would often use AI to explain each line of code so I know how to use specific things, like certain functions, that can be useful in other assignments. I would often go to ChatGPT and insert a code and have it explain each line using the most basic terms as possible. For the most part, I have learned a lot using AI this way.
 
-  18. Writing code
+  11. Writing code
       
 I try not to use AI to write code for me as it often writes code that doesn't meet the criteria and expectations that are needed for class. However, I do use it to show some examples on how to use certain functions. While we were learning how to use Underscore, I would ask ChatGPT to give basic scenarios for when certain functions are useful. This would help me with assignments and WODs.
 
-  20. Documenting code
+  12. Documenting code
 
 I have never used Artificial Intelligence for documenting code. 
 
-  22. Quality assurance
+  13. Quality assurance
 
 I often used AI to check for bugs or ESLint errors. I would insert entire codes to ChatGPT and ask why my codes isn't compiling. So far, I have been able to catch errors by using AI.
 
-  23. Other uses in ICS 314 not listed above
+  14. Other uses in ICS 314 not listed above
 
 
 ### III. Impact on Learning and Understanding:
