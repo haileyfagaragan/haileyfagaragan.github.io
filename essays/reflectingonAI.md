@@ -86,7 +86,8 @@ It's important to note that Artificial Intelligence is still very young and ofte
 Traditional teaching methods can often be lecture, textbook, and project heavy. Which is where I think we lose engagement from students. AI can get rid of these problems by offering a more personalized teaching method that gears more toward individual learning styles. Because of this personalized leaarning experience, students can also get instant feedback on certain things instead of relying on practical assignments to develop their skills and waiting for feedback from their instructors. 
 
 ### VII. Future Considerations:
-Though I look forward to seeing AI becoming a prominent tool in software engineering, I am afraid that people are becoming too reliant on it. 
+Though I look forward to seeing AI becoming a prominent tool in software engineering, I am afraid that people are becoming too reliant on it. Not only does software engineering take time to learn, I also have found it very rewarding to be able to complete coding tasks without the use of Artificial Intelligence. Though I believe that AI could enhance our software engineering skills, it's important to ____
 
 
 ### VIII. Conclusion:
+I have not been using AI for long, but I see it having a long future in my studies and beyond. For other classes, I have made the mistake of relying on it heavily to complete assignments that it affected my grades. However, I gain the most valuable experiences when using AI as an aid in my education. For example, using ChatGPT to explain key concepts, throw out some ideas for essays, and check codes for errors. This way, while I am still doing the work, I still allow myself to use AI to enhance my learning.
