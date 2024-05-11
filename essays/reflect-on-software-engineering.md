@@ -10,7 +10,9 @@ labels:
 ---
 
 <img width="600px" class="rounded float-start pe-4" style="float: left" src="../img/ArtificialIntelligence.jpg"> 
+
 ### Introduction
+As we near the end of the semester, and ICS 314, at UH Manoa, I can say that while it wasnʻt the easiest journey, I still have gained valuable skills that will come in handy in the future, even after I graduate from university. I never thought that I would ever see myself studying computer science. But as I finish the semester, I can see now that being part of this degree program isnʻt as daunting as I thought it would be. No rewarding journey is easy, but I can see the light at the end of the tunnel and learning about software engineering helped me see that light. There were a lot of topics that were covered in ICS 314. Looking at the syllabus at the beginning of the semester, I almost decided to switch out of ICS. But as I progressed into the course, I realized the work was doable with lots of effort and motivation. Some topics were frustrating at times but I have gained so many skills that I plan on using in the future like agile project management, coding standards, and ethical software engineering, to name a few. 
 
 ### Agile Project Management
 One of the main skills needed for a software engineering project and beyond is being able to use agile project management and the ability to work effectively with a team. 
