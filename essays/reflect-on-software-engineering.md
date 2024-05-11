@@ -20,3 +20,6 @@ Software engineering is like writing an essay or learning a new language. There 
 
 ### Ethics in Software Engineering
 Technology is and continues to grow into one of the most important and impactful aspects of everyoneʻs lives. For myself, growing up with the internet, I canʻt picture a life without technology. Now more than ever, itʻs important to remember that though technology as a whole has had a generally postive impact in our lives, there are still aspects that can hurt people. There are many ethical issues in software engineering that should be considered, like privacy, security, and even societal impact. In software engineering, as well as all aspects of life, itʻs important to go forth with the skills and knowledge needed to make ethical and informed decisions in both our academic and professional careers as anything we do can have a positive or negative impact on others. 
+
+### Conclusion
+As I end the beginning of my journey in software engineering, I will continue on in my studies with valuable skills and knowledge that I will need in future classes and even more professional roles. Agile project management, teamwork, and ethics are all skills that I plan on utilizing in the future. A combination of these skills and many more will ensure my success in my career. 
