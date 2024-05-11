@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/divine_feminine.jpg
+image: img/Divine_Project.jpg
 title: "Divine Feminine Series"
 date: 2022-05-05
 labels:
