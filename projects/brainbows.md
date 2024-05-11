@@ -13,7 +13,7 @@ summary: "A way for UH Manoa ICS students to not only seek help from each other,
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/Brainbows.jpg" class="img-thumbnail" >
+  <img width="600px" src="../img/Brainbows.jpg" class="img-thumbnail" >
 </div>
 
 Brainbows is an application catered toward University of Hawaii students in the ICS program. Its main goal is to encourage connecting with other ICS students to seek help from one another in any topic relating to computer science. Many CS majors find it hard to connect and find friends with similar interests. Others may find it hard to seek help in their classes when needed and as a result, students tend to lack motivation and fall behind. This application solves both of those problems. By creating a Branbows profile, students have the ability to find a study buddy based on the specific topics they need help with. To encourage both the use of our application and seeking help from others, there is a point system in place, that every time you create a study session with someone, a user earns points. The students with the most points will be shown on a leaderboard. Our application not only allows users to seek help from others, but it also allows users to become mentors (students who are experts in certain classes) to help other students study. 
