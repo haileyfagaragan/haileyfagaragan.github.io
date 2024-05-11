@@ -15,6 +15,8 @@ summary: "The Divine Feminine Series is a photography series of black & white ph
   <img width="400px" src="../img/IMG_5775.png" class="img-thumbnail" >
 </div>
 
+<img width="600px" class="rounded float-start pe-4" style="float: left" src="../img/IMG_5775.png"> 
+
 The goal of this photography project was to capture the natural beauty of women and femininity. In a way, this series largely criticizes patriarchal society. With so many expectations placed on women, many being problematic, unhealthy, and unattainable beauty and societal standards, I wanted to show that women were already beautiful to begin with. To add on, the patriarchy largely looks down upon femininity, whether it’s seen in either women or men. This is because many people consider feminine traits to be inferior to masculine ones. This project is meant to celebrate feminine energy and convince anyone who views the series to not shy away from their feminine side and instead embrace it. 
 
 This was an individual final project, with the guidance of my professor. I was required to take the photographic techniques I learned throughout the semester and create a series of photos that are meaningful and represent who I am. All photos were taken by me. Since I worked with friends and family, I was responsible making sure that they were comfortable with me taking their photos and ensured they were comfortable enough to pose naturally. I also developed and printed each photo myself in a darkroom provided by the University of Hawaii. 
