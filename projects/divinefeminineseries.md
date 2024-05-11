@@ -11,7 +11,7 @@ labels:
 summary: "The Divine Feminine Series is a photography series of black & white photos in 35mm format. It intends to showcase women in a natural setting and to appreciate the beauty of femininity."
 ---
 
-<img width="600px" class="rounded float-start pe-4" style="float: left" src="../img/divine_feminine.jpg"> 
+<img width="600px" class="rounded float-start pe-4" style="float: left" src="../img/Divine_Series.jpg"> 
 
 The goal of this photography project was to capture the natural beauty of women and femininity. In a way, this series largely criticizes patriarchal society. With so many expectations placed on women, many being problematic, unhealthy, and unattainable beauty and societal standards, I wanted to show that women were already beautiful to begin with. To add on, the patriarchy largely looks down upon femininity, whether it’s seen in either women or men. This is because many people consider feminine traits to be inferior to masculine ones. This project is meant to celebrate feminine energy and convince anyone who views the series to not shy away from their feminine side and instead embrace it. 
 
