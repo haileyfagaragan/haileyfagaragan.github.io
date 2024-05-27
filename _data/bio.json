@@ -6,7 +6,7 @@
     "email": "hailey21@hawaii.edu",
     "phone": "808-397-7178",
     "website": "https://haileyfagaragan.github.io",
-    "summary": "I am a student at the University of Hawaii studying for a B.S. in Computer Science in the Information and Computer Sciences Department.",
+    "summary": "I am a student at the University of Hawaii studying for a B.A. in Information & Computer Sciences in the Information and Computer Sciences Department.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "haileyfagaragan", "url": "http://github.com/haileyfagaragan" },
@@ -17,7 +17,7 @@
     { "name": "Software Engineering" },
     { "name": "Human-Computer Interaction" },
     { "name": "Sustainability" },
-    { "name": "Data Science" },
+    { "name": "UX/UI Design" },
     { "name": "Computer Graphics" }
   ],
   "skills": [
@@ -34,16 +34,16 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring 2026)",
-      "studyType": "B.S.",
+      "studyType": "B.A.",
       "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
         "ICS 111: Introduction to Computer Science I", 
         "ICS 141: Disctrete Mathematics for Computer Science I",
         "ICS 211: Introduction to Computer Science II",
-        "ICS 212: Program Structure (In Progress)",
+        "ICS 212: Program Structure",
         "ICS 241: Discrete Mathematics for Computer Science II", 
-        "ICS 314: Software Engineering I (In Progress)"
+        "ICS 314: Software Engineering I"
       ]
     }
   ],
