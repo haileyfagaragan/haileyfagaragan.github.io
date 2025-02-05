@@ -6,7 +6,7 @@
     "email": "hailey21@hawaii.edu",
     "phone": "808-397-7178",
     "website": "https://haileyfagaragan.github.io",
-    "summary": "I am a student at the University of Hawaii studying for a B.A. in Information & Computer Sciences in the Information and Computer Sciences Department.",
+    "summary": "I am an aspiring UX/UI Researcher & Designer studying for a B.A. in Information & Computer Sciences at the University of Hawaii at Manoa",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "haileyfagaragan", "url": "http://github.com/haileyfagaragan" },
@@ -14,16 +14,16 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Human-Computer Interaction" },
-    { "name": "Sustainability" },
-    { "name": "UX/UI Design" },
-    { "name": "Computer Graphics" }
+    { "name": "Human Computer Interaction" },
+    { "name": "UX/UI Design & Research" },
+    { "name": "Cognitive Psychology" },
+    { "name": "User-Centered Design" },
+    { "name": "Software Engineering" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["Java", "Javascript", "Python", "C", "C++", "HTML/CSS", "Bootstrap5", "React"]
+      "keywords": ["Java", "Javascript", "Python", "HTML/CSS", "Bootstrap5", "React"]
     },
     {
       "name": "Toolsets/OS",
@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring 2026)",
+      "area": "Information & Computer Sciences",
       "studyType": "B.A.",
       "startDate": "2022-08-22",
       "endDate": "Present",
@@ -41,23 +41,39 @@
         "ICS 111: Introduction to Computer Science I", 
         "ICS 141: Disctrete Mathematics for Computer Science I",
         "ICS 211: Introduction to Computer Science II",
-        "ICS 212: Program Structure",
         "ICS 241: Discrete Mathematics for Computer Science II", 
-        "ICS 314: Software Engineering I"
+        "ICS 314: Software Engineering I",
+        "ICS 464: Human-Computer Interaction",
+        "PSY 325: Cognitive Psychology", 
+        "PSY 385: Consumer Behavior"
       ]
     }
   ],
   "work": [
     {
+      "company": "Sentlie (Start-Up Company)",
+      "position": "User Experience Intern",
+      "website": "",
+      "startDate": "2024-07-29",
+      "endDate": "2024-11-29",
+      "summary": "Sydney, NSW, AUS",
+      "highlights": [
+        "Designed the user interface for an online education platform for children focusing on sexual education.",
+        "Conduct user research to understand the needs and preferences of the target audience.",
+        "Develop wireframes, prototypes, and design specifications."
+      ]
+    },
+    {
       "company": "Hawaii Department of Education",
-      "position": "AVID Tutor",
+      "position": "Paraprofessional Tutor",
       "website": "",
       "startDate": "2021-09-01",
-      "endDate": "Present",
-      "summary": "Certified tutor for the Advancememt Via Individual Determination program for the middle and high school level",
+      "endDate": "2024-05-20",
+      "summary": "Honolulu, HI, USA",
       "highlights": [
-        "Monitered students' learning in various subjects",
-        "Assisted in the college application process"
+        "Certified tutor for the Advancememt Via Individual Determination (AVID) program for the middle and high school level.",
+        "Monitered students' learning in various subjects, including core subjects.",
+        "Assisted in the college application process at the high school level."
       ]
     }
   ],
